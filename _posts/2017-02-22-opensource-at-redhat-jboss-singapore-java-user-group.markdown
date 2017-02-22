@@ -7,6 +7,8 @@ categories: jekyll update
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J7qFOxi160k?ecver=1" frameborder="0" allowfullscreen></iframe>
 
+**Written by [Paul-Julien Vauthier](https://www.linkedin.com/in/paul-julien-vauthier-135b7531) / [@pj_Leward](https://twitter.com/pj_leward)**
+
 Bruno Georges leads a team of 150 people at RedHat working for different Open Source projects such as JBoss, Undertown and Hibernate. During this presentation he whole about how they do Open Source at JBoss, Red Hat.
 
 The presentation is quite general about JBoss and RedHat. Some projects introduced during this talked will get a dedicated talk at the [VoxxedDays Singapore](http://voxxeddays.com/singapore/) conference.
